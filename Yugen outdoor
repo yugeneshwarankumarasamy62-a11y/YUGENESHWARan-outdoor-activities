@@ -1,0 +1,15 @@
+Yugeneshwaran_Outdoor_Activities/
+│
+├── index.html
+├── activities.html
+├── about.html
+├── gallery.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── README.txt
